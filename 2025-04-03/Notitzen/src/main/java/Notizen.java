@@ -6,7 +6,7 @@ public class Notizen {
 
     //private ArrayList<String> notizen;
 
-    private final Map<String, String> notizen;
+    private final Map<String, ArrayList<String>> notizen;
 
     public Notizen() {
         //notizen = new ArrayList<>();
